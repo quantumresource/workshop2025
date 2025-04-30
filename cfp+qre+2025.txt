@@ -1,17 +1,17 @@
-6th International Workshop on Quantum Resource Estimation (QRE 2024) for Neutral Atom Computers
+7th International Workshop on Quantum Resource Estimation (QRE 2024) for QEC Decoders
 https://www.quantumresource.org/
 
-September 11, 2024 - Helsinki, Finland
+September 5, 2025 - Helsinki, Finland
 
 ==================--= Call for Participation =--==========================
 
-The focus of this year's workshop are neutral atom computers. We hope to encourage participation from those working in quantum algorithm optimization, error-correction, architecture design, quantum compilation, classical control and resource benchmarking.
+The focus of this year's workshop are decoders for quantum error-correction. We hope to encourage participation from those working in quantum algorithm optimization, error-correction, architecture design, quantum compilation, classical control and resource benchmarking.
 
 The workshop is focused around developing techniques and tools that aid quantum software and algorithm design, informed by the realities of the hardware architectures. QRE shifts the perspective from complexity theoretic arguments to quantitative computer architecture arguments.
 
 The goal is to reduce the physical resource costs for interesting quantum algorithms as quickly as possible. Small-scale, cloud-based NISQ machines sparked the interest of exact, realistic and non asymptotic resource estimations. It is still uncertain if any valuable quantum algorithm is possible without incorporating costly error-correction protocols that make estimation, benchmarking and optimization far more complex. QRE is the forum to share research on the near term feasibility of interesting quantum algorithms.
 
-QRE will be preceded by the <a href="https://instituteq.fi/fqd/" target=_blank>Finnish Quantum Days</a> and afterwards by the <a href="https://unitary.fund/community/unitaryCON/" target=_blank>unitaryCon2024</a>.
+QRE will be preceded by the <a href="https://instituteq.fi/fqd/" target=_blank>Finnish Quantum Days</a>.
 
 ==================--= Call for Papers =--==========================
 
@@ -41,10 +41,10 @@ Initial submission for QRE2024 will consist of an extended abstract, limited to 
 
 Upon acceptance, researchers are invited to submit full research papers to IEEE Transactions on Quantum Engineering.
 
-https://easychair.org/conferences/?conf=qre2023
+https://easychair.org/conferences/?conf=qre2025
 
 ===== Important Dates =====
 
-Extended Abstract Submission: 14 July 2024
-Notification Extended Abstract: 1 August 2024
-Workshop Date: 11 September 2024
+Extended Abstract Submission: 13 July 2024
+Notification Extended Abstract: 27 July 2024
+Workshop Date: 5 September 2024
